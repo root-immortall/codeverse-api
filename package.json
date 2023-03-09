@@ -64,6 +64,7 @@
     "src/greetings3": "src/greetings3"
     
   },
+  "homepage": "https://github.com/denpadev/codeverse-api",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/denpadev/codeverse-api.git"
