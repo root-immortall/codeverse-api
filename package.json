@@ -69,6 +69,6 @@
     "url": "git+https://github.com/denpadev/codeverse-api.git"
   },
   "bugs": {
-    "url": "https://github.com/denpadev/codeverse-api/issues"
+    "url": "https://github.com/denpadev/json-server/issues"
   }
 }
