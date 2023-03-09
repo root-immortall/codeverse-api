@@ -3,7 +3,7 @@
 
 # Install
 ```bash
-npm install @codeverse/api
+npm install github:denpadev/codeverse-api
 ```
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
