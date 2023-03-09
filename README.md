@@ -1,5 +1,4 @@
 # Codeverse api
-Version: [beta]
 
 ```bash
 npm install @codeverse/api
