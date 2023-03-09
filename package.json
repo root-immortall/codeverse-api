@@ -18,7 +18,9 @@
     "scrapers"
   ],
   
- "author": "denpadev.",
+ "author": {
+   "name": "denpadev."
+  },
  "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^8.0.0",
