@@ -1,5 +1,7 @@
 # Codeverse api
 
+
+# Install
 ```bash
 npm install @codeverse/api
 ```
