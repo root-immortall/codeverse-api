@@ -1,0 +1,70 @@
+{
+  "name": "@codeverse/api",
+  "version": "1.0.0-codeverse-api",
+  "description": "simple api by denpadev",
+  "depecrated": false, 
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest-api",
+    "scraper",
+    "downloader",
+    "tools",
+    "canvas",
+    "multifunctions",
+    "scrapers"
+  ],
+  
+ "author": "denpadev.",
+ "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^8.0.0",
+    "axios": "^0.27.0",
+    "cheerio": "^1.0.0-rc.5",
+    "cookie": "^0.5.0",
+    "canvas": "^2.10.1",
+    "qs": "^6.10.1",
+    "uglify-js": "^3.15.3",
+    "node-fetch": "^2.6.1",
+    "yt-search": "^2.7.4",
+    "file-type": "^16.5.3",
+    "form-data": "^4.0.0",
+    "mathjs": "^11.0.0",
+    "moment": "^2.29.1",
+    "ytdl-core": "github:fent/node-ytdl-core",
+    "whois": "latest",
+    "instatouch": "^2.3.14",
+    "mime": "^1.6.0",
+    "escape-string-regexp": "^1.0.5",
+    "multistream": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "fortnite": "^4.3.2", 
+    "fortnite-9812": "^1.0.4",
+    "fake-useragent": "^1.0.1",
+    "ip-range-check": "^0.2.0",
+    "change-case": "^3.0.2",
+    "html-entities": "^1.2.1",
+    "request": "^2.88.2"
+  },
+  "directories": {
+    "lib": "lib",
+    "src/gfx": "src/gfx",
+    "src/linz": "src/linz",
+    "src/rank": "src/rank",
+    "src/tools": "src/tools",
+    "src/game": "src/game",
+    "src/update": "src/update",
+    "src/random": "src/random",
+    "src/premium": "src/premium",
+    "src/greetings": "src/greetings",
+    "src/greetings2": "src/greetings2",
+    "src/greetings3": "src/greetings3"
+    
+  },
+  "bugs": {
+    "url": "https://github.com/denpadev/codeverse-api/issues"
+  }
+}
