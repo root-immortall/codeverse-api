@@ -1,5 +1,5 @@
 {
-  "name": "@codeverse/api",
+  "name": "codeverse/api",
   "version": "1.0.0-api",
   "description": "simple api by denpadev",
   "depecrated": false, 
