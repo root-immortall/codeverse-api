@@ -66,12 +66,12 @@
     "src/greetings3": "src/greetings3"
     
   },
-  "homepage": "https://github.com/denpadev/codeverse-api",
+  "homepage": "https://github.com/root-immortall/codeverse-api",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denpadev/codeverse-api.git"
+    "url": "git+https://github.com/root-immortall/codeverse-api.git"
   },
   "bugs": {
-    "url": "https://github.com/denpadev/codeverse-api/issues"
+    "url": "https://github.com/root-immortall/codeverse-api/issues"
   }
 }
