@@ -1,6 +1,6 @@
 {
   "name": "codeverse-api",
-  "version": "1.0.0-api",
+  "version": "2.0.0",
   "description": "simple api by denpadev",
   "depecrated": false, 
   "main": "index.js",
@@ -18,9 +18,7 @@
     "scrapers"
   ],
   
- "author": {
-   "name": "denpadev."
-  },
+ "author": "denpadev",
  "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^8.0.0",
